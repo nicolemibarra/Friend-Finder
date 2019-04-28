@@ -1,0 +1,26 @@
+{
+    "name": "Friend-Finder",
+    "version": "1.0.0",
+    "description": "An application which collects survey answers and uses them to find friends based on compatibility.",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/nicolemibarra/Friend-Finder.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/nicolemibarra/Friend-Finder/issues"
+    },
+    "homepage": "https://github.com/nicolemibarra/Friend-Finder#readme",
+    "dependencies": {
+      "express": "^4.16.4",
+      "nodemon": "^1.18.7",
+      "path": "^0.12.7"
+    }
+  }
